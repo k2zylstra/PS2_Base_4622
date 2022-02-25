@@ -292,4 +292,3 @@ class DecisionTree:
         # code here
         #END
         return accuracy
-tests.test_tree_build(DecisionTree, entropy)
